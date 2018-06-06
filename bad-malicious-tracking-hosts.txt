@@ -1,0 +1,21 @@
+# Created by:
+# Coddec, https://github.com/coddec
+#
+# Contribute:
+# https://github.com/coddec/Hosts
+#
+# License:
+# GNU Affero General Public License V3 (https://www.gnu.org/licenses/agpl-3.0.en.html)
+#
+#
+#
+# [unblockcn]
+127.0.0.1 www.724sky.com
+127.0.0.1 www.unblockcn.com
+
+# [malicious, tracking]
+127.0.0.1 sdk.open.phone.igexin.com
+127.0.0.1 urd025.analysys.cn
+127.0.0.1 ait025.analysys.cn
+127.0.0.1 m.analytics.126.net
+127.0.0.1 alog.umengcloud.com
